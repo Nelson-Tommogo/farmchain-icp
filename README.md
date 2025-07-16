@@ -5,9 +5,9 @@
 [![Motoko](https://img.shields.io/badge/Smart_Contracts-Motoko-9b5fe0)](https://internetcomputer.org/docs/current/motoko/main/)
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue)](LICENSE)
 
-<div align="center">
-  <img src="https://farmchain.africa/logo.png" width="200" alt="FarmChain Logo">
-</div>
+<!-- <div align="center">
+  <img src="https://far" width="200" alt="FarmChain Logo">
+</div> -->
 
 ## 🌟 Key Features
 | Feature | Description | Tech |

@@ -18,7 +18,7 @@
 | **Internet Identity** | Passwordless authentication | WebAuthn, ICP |
 
 ## 🏗️ Architecture Overview
-```mermaid
+
 flowchart LR
     A[Farmers] --> B[Web/Mobile App]
     B --> C{Internet Identity}
